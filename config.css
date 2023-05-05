@@ -1,9 +1,0 @@
-*{
-    margin: 0;
-    padding: 1rem;
-    box-sizing: border-box;
-}
-body{
-    flex-direction: row;
-    justify-content: right;
-}
